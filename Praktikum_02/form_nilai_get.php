@@ -91,7 +91,7 @@ echo "<br/>Nilai Tugas : ". $nilai_tugas;
     <footer class="mt-5" style="bottom: 0; left: 0; right: 0; position: fixed;">
         <nav class="navbar navbar-expand-md navbar-light bg-light">
             <div class="container">
-                <a class="navbar-brand" href="#">Develop By @ahusa &copy;<?= date("Y") ?></a>
+                <a class="navbar-brand" href="#">Develop By @yujingf &copy;<?= date("Y") ?></a>
             </div>
         </nav>
     </footer>
